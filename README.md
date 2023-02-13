@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ThorsteinSkaug
 - 👀 I’m interested in astronomy, physics and biotechnology 
-- 🌱 I’m currently learning astronomy
-- 💞️ I’m not looking to collaborate at the moment
-- 📫 How to reach me: thorstein.skaug@astro.uio.no
+- 🌱 I’m currently learning extragalactic astronomy
+- 📫 How to reach me: thorstein.skaug@astro.uio.no or thorstein.skaug@gmail.com
 
 <!---
 ThorsteinSkaug/ThorsteinSkaug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
